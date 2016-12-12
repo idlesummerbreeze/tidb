@@ -31,6 +31,8 @@ const (
 	RetryAttempts
 	// BinlogData is the binlog data to write.
 	BinlogData
+	// Skip exist check when prewrite
+	SkipCheck
 )
 
 // Retriever is the interface wraps the basic Get and Seek methods.

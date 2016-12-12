@@ -1,5 +1,5 @@
-hash: 3eba2501a5c89d8afc70a0d7ef8ded81faa89f53dc78cad70c8d36f33ea9e272
-updated: 2016-12-07T15:51:33.847917813+08:00
+hash: 12f8ec55d198e5b874c683fbaaf980763cbc140498ae52d8005d9f503bd711c0
+updated: 2016-12-12T13:27:08.825032928+08:00
 imports:
 - name: bitbucket.org/ww/goautoneg
   version: 75cd24fc2f2c2a2088577d12123ddee5f54e0675
@@ -99,7 +99,7 @@ imports:
   - leveldb/table
   - leveldb/util
 - name: github.com/pingcap/kvproto
-  version: 679b4719adb44bb55780ad2480f29a0f234b039e
+  version: b4b19304191cc4714ae7a21c0b210eb3ac7f75a3
   subpackages:
   - pkg/coprocessor
   - pkg/eraftpb
